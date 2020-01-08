@@ -1,3 +1,9 @@
 {
-  "python.pythonPath": "venv/bin/python3"
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "python.pythonPath": "venv/bin/python3",
+  "[python]": {
+    "editor.tabSize": 4
+  },
+  "python.formatting.provider": "black"
 }
