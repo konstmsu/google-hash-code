@@ -1,3 +1,4 @@
 notebook
 black
 pytest
+pytest-watch
