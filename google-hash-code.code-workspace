@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "dotnet"
+	},
+	{
+		"path": "in"
+	},
+	{
+		"path": "python"
+	}
+],
+  "settings": {}
+}
