@@ -49,7 +49,7 @@ def main_inputs():
     5
     0 1 2 3 6
     """
-    with open("b_small.in") as file:
+    with open("../in/b_small.in") as file:
 
         def get_numbers():
             return [int(v) for v in file.readline().split(" ")]
